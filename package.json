@@ -1,0 +1,23 @@
+{
+  "name": "clm-farm",
+  "version": "1.0.0",
+  "description": "Country Life Meadows Farm Handler",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kreolia/clm-farm.git"
+  },
+  "author": "Kreolia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kreolia/clm-farm/issues"
+  },
+  "homepage": "https://github.com/Kreolia/clm-farm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
